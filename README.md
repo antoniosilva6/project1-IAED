@@ -37,8 +37,6 @@ transportes públicos.
 Para tal são criadas um conjunto de carreiras cujos trajetos correspondem
 a uma sequência de ligações entre paragens.
 
-![buslines](triag.png)
-
 Cada __carreira__ (*left*, *right* ou *middle* na figura)
 é caracterizada por um nome composto por letras ou
 dígitos decimais, uma paragem de origem e uma paragem de destino.
